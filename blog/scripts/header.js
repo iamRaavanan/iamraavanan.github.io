@@ -1,5 +1,5 @@
 let headerHTML = `
-<a href="/blog" class="blog-link">Raavanan</a>
+<a href="/blog/about.html" class="blog-link">Raavanan</a>
 <nav class="blog-nav">
     <ul>
         // <li>
