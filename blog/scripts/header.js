@@ -1,12 +1,10 @@
-let rssLinkHTML = '<link rel="alternate" type="application/rss+xml" title="RSS Feed for lisyarus blog" href="/blog/feed.xml" /><span class="header-rss-link"><a href="/blog/feed.xml">RSS feed</a></span>';
-
 let headerHTML = `
-<a href="/blog" class="blog-link">lisyarus blog</a>
+<a href="/blog" class="blog-link">Raavanan</a>
 <nav class="blog-nav">
     <ul>
-        <li>
-            <a href="/blog" class="header-link">Articles</a>
-        </li>
+        // <li>
+        //     <a href="/blog" class="header-link">Articles</a>
+        // </li>
         <li>
             <a href="/blog/projects.html" class="header-link">Projects</a>
         </li>
@@ -18,7 +16,7 @@ let headerHTML = `
         </li>
     </ul>
 </nav>
-<div class="header-description">// I write stuff about math, simulation, graphics, gamedev, and programming </div>
+<div class="header-description">// I write stuff about gamedev, programming, graphics.  </div>
 `;
 
 let footerHTML = `
