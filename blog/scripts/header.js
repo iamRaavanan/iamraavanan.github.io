@@ -2,7 +2,6 @@ let rssLinkHTML = '<link rel="alternate" type="application/rss+xml" title="RSS F
 
 let headerHTML = `
 <a href="/blog" class="blog-link">lisyarus blog</a>
-${rssLinkHTML}
 <nav class="blog-nav">
     <ul>
         <li>
@@ -19,29 +18,26 @@ ${rssLinkHTML}
         </li>
     </ul>
 </nav>
-<div class="header-description">// I write stuff about math, simulation, graphics, gamedev, and programming ${rssLinkHTML}</div>
+<div class="header-description">// I write stuff about math, simulation, graphics, gamedev, and programming </div>
 `;
 
 let footerHTML = `
 <hr class="header-separator">
 <ul class="connect-list">
-<li><a href="mailto:lisyarus@gmail.com" class="footer-link"><img src="/blog/assets/email.svg" class="footer-icon"></img></a></li>
-<li><a href="https://www.twitter.com/lisyarus" class="footer-link"><svg class="footer-icon"><use xlink:href="/blog/assets/minima-social-icons.svg#twitter"></use></svg></a></li>
-<li><a href="https://mastodon.gamedev.place/@lisyarus" class="footer-link"><svg class="footer-icon"><use xlink:href="/blog/assets/minima-social-icons.svg#mastodon"></use></svg></a></li>
-<li><a href="https://bsky.app/profile/lisyarus.bsky.social" class="footer-link"><img src="/blog/assets/bluesky.svg" class="footer-icon"></img></a></li>
-<li><a href="https://youtube.com/@lisyarus" class="footer-link"><svg class="footer-icon"><use xlink:href="/blog/assets/minima-social-icons.svg#youtube"></use></svg></a></li>
-<li><a href="https://lisyarus.itch.io" class="footer-link"><img src="/blog/assets/itchio.svg" class="footer-icon"></img></a></li>
-<li><a href="https://stackoverflow.com/users/2315602/lisyarus" class="footer-link"><svg class="footer-icon"><use xlink:href="/blog/assets/minima-social-icons.svg#stackoverflow"></use></svg></a></li>
-<li><a href="https://github.com/lisyarus" class="footer-link"><svg class="footer-icon"><use xlink:href="/blog/assets/minima-social-icons.svg#github"></use></svg></a></li>
+<li><a href="mailto:redirect2sk@hotmail.com" class="footer-link"><img src="https://github.com/lisyarus/blog/assets/email.svg" class="footer-icon"></img></a></li>
+<li><a href="https://www.twitter.com/iam_raavanan" class="footer-link"><svg class="footer-icon"><use xlink:href="https://github.com/lisyarus/blog/assets/minima-social-icons.svg#twitter"></use></svg></a></li>
+<li><a href="https://mastodon.gamedev.place/@lisyarus" class="footer-link"><svg class="footer-icon"><use xlink:href="https://github.com/lisyarus/blog/assets/minima-social-icons.svg#mastodon"></use></svg></a></li>
+<li><a href="https://bsky.app/profile/lisyarus.bsky.social" class="footer-link"><img src="https://github.com/lisyarus/blog/assets/bluesky.svg" class="footer-icon"></img></a></li>
+<li><a href="https://www.youtube.com/@iam_Raavanan" class="footer-link"><svg class="footer-icon"><use xlink:href="https://github.com/lisyarus/blog/assets/minima-social-icons.svg#youtube"></use></svg></a></li>
+<li><a href="https://stackoverflow.com/users/2315602/lisyarus" class="footer-link"><svg class="footer-icon"><use xlink:href="https://github.com/lisyarus/blog/assets/minima-social-icons.svg#stackoverflow"></use></svg></a></li>
+<li><a href="https://github.com/iamRaavanan" class="footer-link"><svg class="footer-icon"><use xlink:href="https://github.com/lisyarus/blog/assets/minima-social-icons.svg#github"></use></svg></a></li>
 
 </center>
 `;
 
 let endSectionHTML = `
 <hr class="header-separator">
-<p>Hey, if you like my articles, consider supporting my other work!</p>
-<p>For example, watch my <a href="https://youtube.com/@lisyarus">YouTube devlogs</a>, like this one:</p>
-<center><iframe src="https://www.youtube.com/embed/fymxl5Hd654" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="youtube-embed"></iframe></center>
+<p>Watch my <a href="https://youtube.com/@iam_Raavanan">YouTube devlogs</a>.</p>
 `;
 
 
