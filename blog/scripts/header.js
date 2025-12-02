@@ -2,9 +2,6 @@ let headerHTML = `
 <a href="/blog/about.html" class="blog-link">Raavanan</a>
 <nav class="blog-nav">
     <ul>
-        // <li>
-        //     <a href="/blog" class="header-link">Articles</a>
-        // </li>
         <li>
             <a href="/blog/projects.html" class="header-link">Projects</a>
         </li>
