@@ -13,7 +13,7 @@ let headerHTML = `
         </li>
     </ul>
 </nav>
-<div class="header-description">// gamedev, programming, graphics, simulation, game engine.  </div>
+<div class="header-description">// gamedev, programming, graphics, simulation.  </div>
 `;
 
 let footerHTML = `
