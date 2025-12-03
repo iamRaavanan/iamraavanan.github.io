@@ -19,13 +19,11 @@ let headerHTML = `
 let footerHTML = `
 <hr class="header-separator">
 <ul class="connect-list">
-<li><a href="mailto:redirect2sk@hotmail.com" class="footer-link"><img src="https://github.com/lisyarus/blog/assets/email.svg" class="footer-icon"></img></a></li>
-<li><a href="https://www.twitter.com/iam_raavanan" class="footer-link"><svg class="footer-icon"><use xlink:href="/blog/assets/social.svg#icon-twitter"></use></svg></a></li>
-<li><a href="https://mastodon.gamedev.place/@lisyarus" class="footer-link"><svg class="footer-icon"><use xlink:href="https://github.com/lisyarus/blog/assets/minima-social-icons.svg#mastodon"></use></svg></a></li>
-<li><a href="https://bsky.app/profile/lisyarus.bsky.social" class="footer-link"><img src="https://github.com/lisyarus/blog/assets/bluesky.svg" class="footer-icon"></img></a></li>
-<li><a href="https://www.youtube.com/@iam_Raavanan" class="footer-link"><svg class="footer-icon"><use xlink:href="https://github.com/lisyarus/blog/assets/minima-social-icons.svg#youtube"></use></svg></a></li>
-<li><a href="https://stackoverflow.com/users/2315602/lisyarus" class="footer-link"><svg class="footer-icon"><use xlink:href="https://github.com/lisyarus/blog/assets/minima-social-icons.svg#stackoverflow"></use></svg></a></li>
-<li><a href="https://github.com/iamRaavanan" class="footer-link"><svg class="footer-icon"><use xlink:href="https://github.com/lisyarus/blog/assets/minima-social-icons.svg#github"></use></svg></a></li>
+<li><a href="mailto:redirect2sk@hotmail.com" class="footer-link"><img src="/blog/assets/social.svg#icon-email" class="footer-icon"></img></a></li>
+<li><a href="https://www.linkedin.com/in/saravana-uthayakumar-95ab3380/" class="footer-link"><svg class="footer-icon"><use xlink:href="/blog/assets/social.svg#linkedIn"></use></svg></a></li>
+<li><a href="https://github.com/iamRaavanan" class="footer-link"><svg class="footer-icon"><use xlink:href="/blog/assets/social.svg#github"></use></svg></a></li>
+<li><a href="https://www.youtube.com/@iam_Raavanan" class="footer-link"><svg class="footer-icon"><use xlink:href="/blog/assets/social.svg#youtube"></use></svg></a></li>
+<li><a href="https://www.twitter.com/iam_raavanan" class="footer-link"><svg class="footer-icon"><use xlink:href="/blog/assets/social.svg#twitter"></use></svg></a></li>
 
 </center>
 `;
